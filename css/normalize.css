@@ -1,0 +1,38 @@
+.contact{
+  height: 7rem;
+}
+
+.contact tr{
+  font-size: 1.5rem;
+  width: 100%;
+}
+
+.contact th{
+  text-align: right;
+  width: 150px;
+}
+
+.hoge{
+  width: 480px;
+  margin: 10px 0px;
+}
+
+textarea {
+  width: 100%;
+}
+
+.button{
+  text-align: center;
+}
+
+input[type="submit"]{
+  font-size: 3rem;
+  color: white;
+  margin: 10px;
+  background:#008b8b;
+  border: none;
+}
+
+input[type="submit"]:hover{
+  opacity: 0.6;
+}
